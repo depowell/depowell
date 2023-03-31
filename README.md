@@ -13,7 +13,6 @@ Currently, I am leading a team of data engineers to build a scalable and reliabl
 How to Reach Me
 You can find me on [LinkedIn](https://www.linkedin.com/in/mrdavidpowell/)
 
-My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=depowell&show_icons=true&theme=radical)
 
 Thanks for stopping by!
